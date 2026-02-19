@@ -12,3 +12,8 @@ Tuning Spots are all over the map some are Job related for the Mechanic
 ## Config
 
 Easy add new Mechanic Spots how you want it
+
+
+## ESX MENU DEFAULT
+
+The Tuning System uses ESX MENU DEFAULT i would recommend the one from Parow
