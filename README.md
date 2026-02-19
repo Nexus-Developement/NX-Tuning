@@ -13,6 +13,8 @@ Tuning Spots are all over the map some are Job related for the Mechanic
 
 Easy add new Mechanic Spots how you want it
 
+I use my own Helpnotify to change go to Line 682 and change it to yours or ESX.ShowHelpNotification or other Notify system
+
 
 ## ESX MENU DEFAULT
 
